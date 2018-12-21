@@ -1,4 +1,4 @@
-IMANIRAKARAMA Alexianne [10:28 AM]
+
 function mytest()
 {
 var q1=document.forms["myform"]["answer1"].value;
