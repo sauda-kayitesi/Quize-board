@@ -23,4 +23,7 @@ The software will be installed.
 
 ## Running the tests
 
-To run the automated test without changing any options, right-click the test and then choose Run. The Analyze Test Runs activity is displayed. It shows the progress of the test run that contains this test. You can run multiple automated tests by selecting multiple tests, or you can select to run a whole suite of tests.Dec 6, 2018
+To run the automated test without changing any options, right-click the test and then choose Run. The Analyze Test Runs activity is displayed. It shows the progress of the test run that contains this test. You can run multiple automated tests by selecting multiple tests, or you can select to run a whole suite of tests.Dec 6, 2018.
+
+## And coding style tests
+Written tests are tests that are administered on paper or on a computer (as an eExam). A test taker who takes a written test could respond to specific items by writing or typing within a given space of the test or on a separate form or document.
