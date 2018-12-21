@@ -1,3 +1,16 @@
+
 body{
-    background-color: brown;
-}
+    background-color:khaki;
+ }
+ .board{
+    margin:20px;
+    text-align:left;
+    background-color:
+ }
+ 
+ h1{
+    color:blue;
+    font-family:monospace;
+    text-align:left;
+    font-size:20px; 
+ }

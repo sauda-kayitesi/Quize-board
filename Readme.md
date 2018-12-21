@@ -1,8 +1,8 @@
-##Title
+## Title
 
 This project  has title fo QUIZE-BOAD here i want the student to choose the right answer
 
-##Prerequisites
+## Prerequisites
 
 Things you need to install software are:
 
@@ -31,4 +31,12 @@ Written tests are tests that are administered on paper or on a computer (as an e
 ## Deployment
  How to deploye on live system
  Copy all your theme and plugin files to your live site with a click. ... If you like to convert your staging site to the production site with WP Staging Free version instead .... On the Live Site, use WP Staging Pro to copy all new plugins, media and ...
+
+## Authors
+
+    Sauda
+
+## License
+
+This project is licensed under the MIT License .
 
