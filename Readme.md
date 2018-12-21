@@ -27,3 +27,8 @@ To run the automated test without changing any options, right-click the test and
 
 ## And coding style tests
 Written tests are tests that are administered on paper or on a computer (as an eExam). A test taker who takes a written test could respond to specific items by writing or typing within a given space of the test or on a separate form or document.
+
+## Deployment
+ How to deploye on live system
+ Copy all your theme and plugin files to your live site with a click. ... If you like to convert your staging site to the production site with WP Staging Free version instead .... On the Live Site, use WP Staging Pro to copy all new plugins, media and ...
+
