@@ -40,3 +40,10 @@ Written tests are tests that are administered on paper or on a computer (as an e
 
 This project is licensed under the MIT License .
 
+## Copyright
+   Copyright @2018 Sauda KAYITESI
+
+
+## Acknowledgments
+
+  I thanks my TM Roger who have help me to achieve this work and my team-work especialy Alexianne and Joyeuse to let  their work and help me to understand some concept in order to complish my work.
